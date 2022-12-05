@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simisola Akinoso</h1>
 <h3 align="center">A passionate Data Scientist from Nigeria</h3>
-<img align="right" alt="coding" width=100" src="https://user-images.githubusercontent.com/113178017/205661112-006449c3-3a8a-4a2a-a38a-fc4e8facc670.gif">
+<img align="center" alt="coding" width=100" src="https://user-images.githubusercontent.com/113178017/205661112-006449c3-3a8a-4a2a-a38a-fc4e8facc670.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceemisawlar&label=Profile%20views&color=0e75b6&style=flat" alt="ceemisawlar" /> </p>
 
