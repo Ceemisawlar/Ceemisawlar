@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simisola Akinoso</h1>
 <h3 align="center">A passionate Data Scientist from Nigeria</h3>
-<img align="right" alt="coding" width=400" src="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">
+<img align="center" alt="Coding" width="400" src="https://dribbble.com/shots/2913306-e-n-d-l-e-s-s-s-u-m-m-e-r-n-i-g-h-t-s-9-7/attachments/9552153?mode=media)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceemisawlar&label=Profile%20views&color=0e75b6&style=flat" alt="ceemisawlar" /> </p>
 
@@ -18,11 +18,11 @@
 
 - 💬 Ask me about **Data Science**
 
-- 📫 How to reach me **ceemiakins@gmail.com**
+- 📫 How to reach me: **ceemiakins@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VZlQ04zqDFFiiYKlvjKawfA2jyjG-AdZ/view?usp=drivesdk](https://drive.google.com/file/d/1VZlQ04zqDFFiiYKlvjKawfA2jyjG-AdZ/view?usp=drivesdk)
+- 📄 Know about my experiences @ [https://drive.google.com/file/d/1VZlQ04zqDFFiiYKlvjKawfA2jyjG-AdZ/view?usp=drivesdk](https://drive.google.com/file/d/1VZlQ04zqDFFiiYKlvjKawfA2jyjG-AdZ/view?usp=drivesdk)
 
-- ⚡ Fun fact **I love baking**
+- ⚡ Fun fact: **I love baking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
