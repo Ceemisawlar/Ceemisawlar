@@ -12,8 +12,6 @@
 
 - 🤝 I’m looking for help with **Machine learning projects**
 
-- 👨‍💻 All of my projects are available at [https://colab.research.google.com/drive/1texS1k2vYsSLBtUUl7sF79zSIHBPRBQI?usp=sharing](https://colab.research.google.com/drive/1texS1k2vYsSLBtUUl7sF79zSIHBPRBQI?usp=sharing)
-
 - 💬 Ask me about **Data Science**
 
 - 📫 How to reach me: **ceemiakins@gmail.com**
